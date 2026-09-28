@@ -16,7 +16,7 @@
     $$
     So there is a single solution $x=-5$.
 
-    b. Factorise by inspection into the form $(x+)(x+b)$ where $ab = -60$ and $a + b = -28$
+    b. Factorise by inspection into the form $(x+a)(x+b)$ where $ab = -60$ and $a + b = -28$
     
     \begin{align*}
     x^2-28x-60 &= 0\\

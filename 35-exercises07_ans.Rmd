@@ -170,7 +170,7 @@ These exercises cover solving linear equations by Gaussian elimination.
             1 & 1 &  5 & 1
         \end{array}\right).
 		$$
-		We start by swapping rows so that we have a small number in the top-left corner --- this avoids having to deal with fractions --- applying $R_1 \leftrightarrow R_3$ and then $R_2 \leftrightarrow R_3$ gives
+		We start by swapping rows so that we have a 1 in the top-left corner --- this avoids having to deal with fractions --- applying $R_1 \leftrightarrow R_3$ and then $R_2 \leftrightarrow R_3$ gives
 		$$
         \left(\begin{array}{rrr|r}
             1 & 1 &  5 & 1 \\
@@ -242,7 +242,7 @@ These exercises cover solving linear equations by Gaussian elimination.
             0 & 1 & \frac{1}{2} & \frac{1}{2}\\
             0 & 0 & 0           & 0
         \end{array}\right).
-		$$
+		$$contain
 		Note that there is no leading entry in column three or in the solution vector, so there are infinitely many solutions, and we can take the variable $z$ to be arbitrary, say $z=\lambda$. We then read off the solutions
 		$$
         (x,y,z)=\frac{1}{2}(3-\lambda,1-\lambda,2\lambda).
